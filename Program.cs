@@ -1,12 +1,8 @@
-﻿using solution1;
+﻿namespace leetcode;
 
-namespace leetcode
+internal class Program
 {
-    class Program
+    public static void Main()
     {
-        public static void Main()
-        {
-        }
-
     }
 }
