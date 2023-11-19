@@ -2,3 +2,5 @@
 #+author: Atri Hegde
 
 Leetcode solutions.
+
+- [[./solutions/solution1.cs][1. Two sum]]
